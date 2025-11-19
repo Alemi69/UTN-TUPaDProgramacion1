@@ -1,0 +1,4 @@
+Lapicera,120.5,30
+Cuaderno,500.0,10
+Goma,50.0,50
+Mochila,1500.0,5
